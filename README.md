@@ -8,7 +8,7 @@ I specialize in backend development using Java, where I leverage frameworks such
 
 ## 📚 Learning Journey
 
-My learning journey is an ongoing exploration of technologies in the dynamic field of web development. Currently, I'm immersing myself in advanced frontend frameworks, including technologies like React and Tailwind, and expanding my expertise with tools such as Docker and cloud-based solutions. Staying ahead of the curve is my focus as I embrace advanced architectures to enhance my skills and grow in tech industry
+My learning journey is an ongoing exploration of technologies in the dynamic field of web development. Currently, I'm immersing myself in advanced frontend frameworks, including technologies like React and Tailwind, and expanding my expertise with tools such as Docker and cloud-based solutions. Staying ahead of the curve is my focus as I embrace advanced architectures to enhance my skills and grow in tech industry.
 
 ---
 
@@ -23,4 +23,7 @@ My learning journey is an ongoing exploration of technologies in the dynamic fie
           
 </div>
 
-          
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FineiasAntonio&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FineiasAntonio&layout=compact&theme=radical)
