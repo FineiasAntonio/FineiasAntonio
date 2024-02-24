@@ -10,6 +10,17 @@ I specialize in backend development using Java, where I leverage frameworks such
 
 My learning journey is an ongoing exploration of technologies in the dynamic field of web development. Currently, I'm immersing myself in advanced frontend frameworks, including technologies like React and Tailwind, and expanding my expertise with tools such as Docker and cloud-based solutions. Staying ahead of the curve is my focus as I embrace advanced architectures to enhance my skills and grow in tech industry
 
-## 🌐 Connect with Me
+---
 
-Let's connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/fineias-antonio/). I'm open to collaboration, discussions, and sharing experiences with fellow developers.
+# My technologies
+
+<div style="display: inline-block;"><br>
+  <img align="center" width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img align="center" width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" />
+  <img align="center" width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img align="center" width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+          
+</div>
+
+          
