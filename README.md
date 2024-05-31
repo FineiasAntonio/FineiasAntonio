@@ -4,7 +4,7 @@ I'm a 19-year-old backend developer who rediscovered my love for coding in 2023,
 
 ## 🔧 Technologies & Tools
 
-I specialize in backend development using Java, where I leverage frameworks such as Spring and Hibernate to craft robust solutions. My expertise extends to proficient database management, ensuring seamless integration with backend applications. Additionally, I am always exploring new architectural patterns to build scalable and efficient backend systems.
+I specialize in backend development using Java, where I work with frameworks such as Spring and Hibernate to make robust solutions. My expertise extends to proficient database management, ensuring seamless integration with backend applications. Additionally, I am always exploring new architectural patterns to build scalable and efficient backend systems.
 
 ## 📚 Learning Journey
 
