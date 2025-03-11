@@ -20,6 +20,8 @@ My learning journey is an ongoing exploration of technologies in the dynamic fie
   <img align="center" width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />        
   <img align="center" width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
   <img align="center" width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img align="center" width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
+          
           
                   
 </div>
