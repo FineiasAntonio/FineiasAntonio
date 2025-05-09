@@ -28,5 +28,4 @@ My learning journey is an ongoing exploration of technologies in the dynamic fie
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FineiasAntonio&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FineiasAntonio&layout=compact&theme=radical)
