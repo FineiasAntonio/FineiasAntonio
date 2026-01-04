@@ -22,7 +22,3 @@ I'm a 21-year-old Backend Developer and a Software Engineering student at the Un
           
                   
 </div>
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FineiasAntonio&layout=compact&theme=radical)
